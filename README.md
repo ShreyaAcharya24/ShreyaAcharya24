@@ -16,6 +16,7 @@ I’m currently diving deep into Spring Boot and Python Django development and a
 🐦 [Twitter](https://x.com/ShreyaAcharya24)
 
 🚀 Currently Exploring
+
 ✅ Spring Boot & Backend API Development
 
 ✅ Clean code practices and RESTful architecture
