@@ -21,4 +21,4 @@ I’m currently diving deep into Spring Boot and Python Django development and a
 
 ✅ Clean code practices and RESTful architecture
 
-✅ Personal projects that showcase practical Java skills
+✅ Personal projects that showcase practical development skills
