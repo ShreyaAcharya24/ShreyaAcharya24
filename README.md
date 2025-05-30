@@ -1,4 +1,7 @@
 👩‍💻 About Me
+
+--
+
 Hi there! I'm Shreya Acharya (@ShreyaAcharya24) — a passionate tech enthusiast with a creative soul.
 I’m currently diving deep into Spring Boot and Python Django development and actively expanding my skills in full-stack web technologies.
 
