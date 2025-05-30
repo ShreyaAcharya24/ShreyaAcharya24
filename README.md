@@ -13,7 +13,7 @@ I’m currently diving deep into Spring Boot and Python Django development and a
 🔗 Let's Connect  
 💼 [LinkedIn](https://www.linkedin.com/in/shreya-acharya-916791213/)  
 
-🐦 [Twitter](https://twitter.com/your-profile](https://x.com/ShreyaAcharya24)
+🐦 [Twitter](https://x.com/ShreyaAcharya24)
 
 🚀 Currently Exploring
 ✅ Spring Boot & Backend API Development
